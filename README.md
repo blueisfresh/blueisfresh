@@ -4,11 +4,11 @@
 
 I'm a ambitious young disprentice, working and getting my development education at MA01. 
 
-- Currently im learning the basics of many different Program languages
+- Currently im learning the basics of many different Program languages🌆
 
-- In my free time I work on my Own Chores App for my family
+- In my free time I work on my Own Chores App for my family🧹
 
-- And I love to explore the huge world of dev
+- And I love to explore the huge world of dev🌍
 
 ---
 
