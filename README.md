@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a ambitious young disprentice, working and getting my development education at MA01. 
+I'm a ambitious young apprentice, working and getting my development education at MA01. 
 
 - Currently im learning the basics of many different Program languages🌆
 
