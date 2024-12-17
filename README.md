@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Elias Guerematchi-Vrabl
+## 👋 Hi, I'm Blue
 
 🛠️ Apprentice Developer at MA01  
 🚀 Learning **Next.js**, **C#**, and **SQL**  
